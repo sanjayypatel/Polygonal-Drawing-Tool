@@ -6,6 +6,7 @@ sanjayypatel.tumblr.com
 @bupping
 sanjay.y.patel@gmail.com
 
+See Example Work at: http://sanjayypatel.tumblr.com/tagged/polygonaldrawingtool
 
 update 021015 - curved lines, speed controls, background brightness controls
 
